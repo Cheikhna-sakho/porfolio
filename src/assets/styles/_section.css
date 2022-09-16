@@ -1,0 +1,16 @@
+section{
+    /* height: 100vh; */
+    display: grid;
+    align-items: center;
+    /* color: var(--grey-light); */
+}
+.media {
+    position: fixed;
+    left: 2%;
+    top: 75vh;
+    color: white;
+    font-size: 2rem;
+}
+.media svg {
+    cursor: pointer;
+}

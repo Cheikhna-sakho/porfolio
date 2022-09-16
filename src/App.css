@@ -1,0 +1,23 @@
+@import url("./assets/styles/_setting.css");
+@import url("./assets/styles/_acceuil.css");
+@import url("./assets/styles/_header.css");
+@import url("./assets/styles/_nav.css");
+@import url("./assets/styles/_main.css");
+@import url("./assets/styles/_section.css");
+@import url("./assets/styles/_projet.css");
+@import url("./assets/styles/_projetSize.css");
+@import url("./assets/styles/_cube.css");
+@import url("./assets/styles/_about.css");
+@import url("./assets/styles/_footer.css");
+@import url("./assets/styles/_projetRotate.css");
+/* .projet_ {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    height: 200px;
+}
+.projet{
+    height: 80vh;
+    width: 80vw;
+    position: relative;
+} */

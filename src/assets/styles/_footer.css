@@ -1,0 +1,25 @@
+footer {
+    width: 100%;
+    background: var(--grey);
+    height: 100%;
+}
+.form-box {
+    height: 60%;
+    /* background: var(--grey-light); */
+    justify-items: center;
+}
+.footer {
+    text-align: center;
+    grid-template-rows: max-content auto;
+    height: inherit;
+}
+
+.input-box {
+    padding: 10px;
+}
+.sociaux ul{
+    gap: 20px;
+}
+input,textarea{
+    background: var(--grey-light-medium);
+}

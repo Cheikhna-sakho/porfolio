@@ -1,0 +1,10 @@
+.projet-cover {
+    height: 100%;
+}
+.projet.mobil {
+    padding: 15px;
+}
+.projet.mobil img {
+    object-fit: contain;
+    transform: skew(-10deg, 10deg);
+}

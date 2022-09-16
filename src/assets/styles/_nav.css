@@ -1,0 +1,30 @@
+.nav-ul {
+    gap: 50px;
+}
+
+nav li {
+    cursor: pointer;
+    position: relative;
+    font-size: 1.4em;
+}
+
+nav li::after {
+    content: '';
+    transform: translate(-50%,50%);
+    position: absolute;
+    width: 0%;
+    height: 10%;
+    /* top: 50%; */
+    left: 50%;
+    display: block;    
+    transition: all 0.6s ease;
+    background: var(--grey-dark-medium);
+}
+
+nav li:hover:after {
+    width: 100%;    
+}
+
+nav li:hover {
+    /* text-decoration: underline; */
+}

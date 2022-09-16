@@ -1,0 +1,6 @@
+main{
+    background-color: var(--grey-dark-medium);
+    display: grid;
+    grid-auto-rows: 1fr;
+    gap: 20px;
+}
