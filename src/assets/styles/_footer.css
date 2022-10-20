@@ -23,3 +23,32 @@ footer {
 input,textarea{
     background: var(--grey-light-medium);
 }
+
+.input-box input,textarea {
+    color: white;
+    outline: none;
+    padding: 2px 10px;
+    font-size: 1.2em;
+}
+
+.input-box input:focus,textarea:focus{
+    background: white;
+    color: black;
+}
+h3{
+    color: var(--or);
+}
+.contact-title,.input-box:focus-within label,input[type="submit"]:hover{
+    color: var(--or);
+}
+.input-box label,input[type="submit"]{
+    font-size: 1.2em;
+}
+input[type="submit"] {
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+input[type="submit"]:hover{
+    border: var(--or) solid;
+}

@@ -34,14 +34,20 @@
     align-items: center;
     justify-items: center;
 }
-
+.me button {
+    margin: 15px 0;
+}
 
 .info-article {
     transition: all 1s ease;
     border-radius: 10px;
     box-shadow: 1px 1px 15px var(--grey-light);
     
-}.info-article:hover{transform: translate(10px,10px);}
+}
+.info-article:hover{
+    transform: translate(10px,10px);
+    color: var(--or);
+}
 
 .info-ul {
     text-align: initial;

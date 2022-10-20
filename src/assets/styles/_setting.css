@@ -7,6 +7,7 @@
     --cube-size: 200px;
     --face-size: calc(var(--cube-size)/2);
     /* Color */
+    --or: wheat;
     --grey-dark: #0D0D0D;
     --grey-dark-medium: #262626;
     --grey: #595959;
@@ -16,6 +17,7 @@
 .flou:hover{
     opacity: 0.4;
     z-index: -1;
+    /* color: ; */
 }
 article.see{
     opacity: 1;
@@ -42,4 +44,15 @@ img {
 li{
     list-style: none;
 }a{text-decoration: none; color: inherit;}
+button{
+    transition: all 0.5s ease;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover{
+    color: var(--or);
+    background: var(--grey-dark-medium);
+}
 /* //////////////////////// */
