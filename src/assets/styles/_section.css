@@ -17,3 +17,11 @@ section{
 .media li:hover{
     color: var(--or);
 }
+@media (max-width: 600px){
+    section{
+        display: block;
+    }
+    .media{
+        position: absolute;
+    }
+}

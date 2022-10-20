@@ -16,3 +16,10 @@ h1{
 h1 span{
     color: var(--or);
 }
+
+@media (max-width: 600px){
+    .header{
+        flex-direction: column;
+        /* text-align: justify; */
+    }
+}

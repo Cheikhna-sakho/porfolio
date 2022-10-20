@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 :root{
+    --mobil-size: 600px;
     --cube-size: 200px;
     --face-size: calc(var(--cube-size)/2);
     /* Color */
@@ -55,4 +56,11 @@ button:hover{
     color: var(--or);
     background: var(--grey-dark-medium);
 }
+
 /* //////////////////////// */
+@media (max-width: 600px){
+    button{
+        color: var(--or);
+        background: var(--grey-dark-medium);
+    }
+}

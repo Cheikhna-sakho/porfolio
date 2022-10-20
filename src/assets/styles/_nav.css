@@ -28,6 +28,12 @@ nav li:hover:after {
     width: 100%;    
 }
 
-nav li:hover {
-    /* text-decoration: underline; */
+@media (max-width: 600px){
+    .nav-ul {
+        gap: 20px;
+    }
+    nav li{
+        color: var(--grey-light);
+        border-bottom: solid;
+    }
 }

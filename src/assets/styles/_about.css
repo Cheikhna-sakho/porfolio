@@ -58,3 +58,18 @@
 li.info-item {
     text-decoration: underline;
 }
+
+@media (max-width: 600px){
+    .infos{
+        display: flex;
+        flex-direction: column;
+        color: var(--or);
+    }
+    .infos h2{
+        color: var(--grey-dark);
+    }
+    .info-ul{
+        text-align: center;
+
+    }
+}
