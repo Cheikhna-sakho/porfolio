@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aba7627c.css",
-    "main.js": "/portfolio/static/js/main.3f9e7c56.js",
+    "main.js": "/portfolio/static/js/main.8a4839a1.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/spotify.png": "/portfolio/static/media/spotify.98fc1361dc18792a23e0.png",
     "static/media/tweet-accueil.png": "/portfolio/static/media/tweet-accueil.701dc76c4b63f2f3047b.png",
     "static/media/cerveau_multi_dimension.png": "/portfolio/static/media/cerveau_multi_dimension.983a8b8b98910a5c940a.png",
+    "static/media/spotify_detail.png": "/portfolio/static/media/spotify_detail.7bdad0de9f99040a7d79.png",
     "static/media/photoCV.jpg": "/portfolio/static/media/photoCV.3618128d41ebbfe011c6.jpg",
     "static/media/My_Snap_acceuil.png": "/portfolio/static/media/My_Snap_acceuil.a4b0e1c6f4640b97462f.png",
     "static/media/My_IIRC_chat.png": "/portfolio/static/media/My_IIRC_chat.390c4f7869149f34ff25.png",
     "static/media/CV_Cheikhna_SAKHO.pdf": "/portfolio/static/media/CV_Cheikhna_SAKHO.fb04fc47ac4797caa25b.pdf",
     "index.html": "/portfolio/index.html",
     "main.aba7627c.css.map": "/portfolio/static/css/main.aba7627c.css.map",
-    "main.3f9e7c56.js.map": "/portfolio/static/js/main.3f9e7c56.js.map",
+    "main.8a4839a1.js.map": "/portfolio/static/js/main.8a4839a1.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aba7627c.css",
-    "static/js/main.3f9e7c56.js"
+    "static/js/main.8a4839a1.js"
   ]
 }
